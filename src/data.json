@@ -1,0 +1,842 @@
+[
+      {
+        "emoji": "😀",
+        "name": "Grinning Face",
+        "description": "A yellow face with smiling eyes and a broad, closed smile."
+      },
+      {
+        "emoji": "😃",
+        "name": "Grinning Face with Big Eyes",
+        "description": "A yellow face with simple, open eyes and a broad, open smile."
+      },
+      {
+        "emoji": "😄",
+        "name": "Grinning Face with Smiling Eyes",
+        "description": "A yellow face with smiling eyes and a broad, closed smile."
+      },
+      {
+        "emoji": "😁",
+        "name": "Beaming Face with Smiling Eyes",
+        "description": "A yellow face with smiling eyes and a broad, open smile."
+      },
+      {
+        "emoji": "😆",
+        "name": "Grinning Squinting Face",
+        "description": "A yellow face with a broad, open smile, showing upper teeth on most platforms, with tightly closed eyes."
+      },
+      {
+        "emoji": "🥹",
+        "name": "Face with Monocle",
+        "description": "A face with one eyebrow raised, wearing a monocle."
+      },
+      {
+        "emoji": "😅",
+        "name": "Grinning Face with Sweat",
+        "description": "A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing."
+      },
+      {
+        "emoji": "😂",
+        "name": "Face with Tears of Joy",
+        "description": "A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing."
+      },
+      {
+        "emoji": "🤣",
+        "name": "Rolling on the Floor Laughing",
+        "description": "A yellow face with a big grin and scrunched, X-shaped eyes, tilted on its side as if rolling on the floor laughing."
+      },
+      {
+        "emoji": "🥲",
+        "name": "Smiling Face with Tear",
+        "description": "A yellow face with smiling eyes and a single tear on one cheek."
+      },
+      {
+        "emoji": "☺️",
+        "name": "Smiling Face",
+        "description": "A yellow face with smiling eyes and a broad, closed smile."
+      },
+      {
+        "emoji": "😊",
+        "name": "Smiling Face with Smiling Eyes",
+        "description": "A yellow face with smiling eyes and a broad, closed smile."
+      },
+      {
+        "emoji": "😇",
+        "name": "Smiling Face with Halo",
+        "description": "A yellow face with smiling eyes, closed smile, and halo, usually above the head."
+      },
+      {
+        "emoji": "🙂",
+        "name": "Slightly Smiling Face",
+        "description": "A yellow face with smiling eyes and a closed smile."
+      },
+      {
+        "emoji": "🙃",
+        "name": "Upside-Down Face",
+        "description": "A yellow face with a slight smile and a slight frown, which can be inverted or flipped upside down."
+      },
+      {
+        "emoji": "😉",
+        "name": "Winking Face",
+        "description": "A yellow face with a slight smile and a wink."
+      },
+      {
+        "emoji": "😌",
+        "name": "Relieved Face",
+        "description": "A yellow face with soft, closed eyes, raised eyebrows, and a slight smile."
+      },
+      {
+        "emoji": "😍",
+        "name": "Smiling Face with Heart-Eyes",
+        "description": "A yellow face with smiling eyes, a closed smile, and hearts circling around its head, expressing love or adoration."
+      },
+      {
+        "emoji": "🥰",
+        "name": "Smiling Face with Hearts",
+        "description": "A yellow face with smiling eyes, a closed smile, and several hearts floating around its head."
+      },
+      {
+        "emoji": "😘",
+        "name": "Face Blowing a Kiss",
+        "description": "A yellow face with smiling eyes and puckered lips blowing a kiss, depicted as a red heart."
+      },
+      {
+        "emoji": "😗",
+        "name": "Kissing Face",
+        "description": "A yellow face with puckered lips, closed eyes, and a slight blush."
+      },
+      {
+        "emoji": "😙",
+        "name": "Kissing Face with Smiling Eyes",
+        "description": "A yellow face with kissing lips, eyes closed, and smiling with a blush."
+      },
+      {
+        "emoji": "😚",
+        "name": "Kissing Face with Closed Eyes",
+        "description": "A yellow face with puckered lips, closed eyes, and a slight blush."
+      },
+      {
+        "emoji": "😋",
+        "name": "Face Savoring Food",
+        "description": "A yellow face with smiling eyes, closed smile, and a tongue sticking out, tasting delicious food."
+      },
+      {
+        "emoji": "😛",
+        "name": "Face with Tongue",
+        "description": "A yellow face with a big grin and wide, white eyes, one larger than the other, and a tongue sticking out."
+      },
+      {
+        "emoji": "😝",
+        "name": "Squinting Face with Tongue",
+        "description": "A yellow face with scrunched, X-shaped eyes and a big grin, sticking its tongue out."
+      },
+      {
+        "emoji": "😜",
+        "name": "Winking Face with Tongue",
+        "description": "A yellow face with a small, closed smile, one raised eyebrow, and its tongue sticking out, often used to convey a sense of joking or teasing."
+      },
+      {
+        "emoji": "🤪",
+        "name": "Zany Face",
+        "description": "A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard."
+      },
+      {
+        "emoji": "🤨",
+        "name": "Face with Raised Eyebrow",
+        "description": "A yellow face with a single, raised eyebrow, mistrustful or disapproving."
+      },
+      {
+        "emoji": "🧐",
+        "name": "Face with Monocle",
+        "description": "A face with one eyebrow raised, wearing a monocle."
+      },
+      {
+        "emoji": "🤓",
+        "name": "Nerd Face",
+        "description": "A yellow face with thick, black glasses and buck teeth, a stereotypical nerd."
+      },
+      {
+        "emoji": "😎",
+        "name": "Smiling Face with Sunglasses",
+        "description": "A yellow face with a broad, closed smile wearing black sunglasses, as if a cool dude."
+      },
+      {
+        "emoji": "🥸",
+        "name": "Disguised Face",
+        "description": "A face with one large and one small eye, a slight frown, and furrowed eyebrows, as if trying to deceive."
+      },
+      {
+        "emoji": "🤩",
+        "name": "Star-Struck",
+        "description": "A yellow face with starry eyes, wide raised eyebrows, and a broad, closed smile."
+      },
+      {
+        "emoji": "🥳",
+        "name": "Party Face",
+        "description": "A face wearing a party hat, with a paper horn blowing and confetti streaming down."
+      },
+      {
+        "emoji": "🙂‍↕️",
+        "name": "Mixed Skin Tone",
+        "description": "A face with one hand pointing upwards, and the other pointing downwards, with a yellow face."
+      },
+      {
+        "emoji": "😏",
+        "name": "Smirking Face",
+        "description": "A yellow face with smiling eyes and a closed smile with a smirk."
+      },
+      {
+        "emoji": "😒",
+        "name": "Unamused Face",
+        "description": "A yellow face with slightly raised eyebrows, a frown, and eyes looking to the side. May convey a variety of negative emotions, including irritation, displeasure, and skepticism."
+      },
+      {
+        "emoji": "🙂‍↔️",
+        "name": "Multiple skin tones",
+        "description": "A face with one hand pointing to the left, the other pointing to the right, with a yellow face."
+      },
+      {
+        "emoji": "😞",
+        "name": "Disappointed Face",
+        "description": "A yellow face with a slight frown, downturned eyebrows, and eyes looking to the side. May convey a range of negative emotions, including disappointment, frustration, sadness, and remorse."
+      },
+      {
+        "emoji": "😔",
+        "name": "Pensive Face",
+        "description": "A yellow face with slightly raised eyebrows, a frown, and eyes looking down. May convey a variety of moderately sad or pensive emotions, including longing, contemplation, disappointment, and loneliness."
+      },
+      {
+        "emoji": "😟",
+        "name": "Worried Face",
+        "description": "A yellow face with a small, open mouth and large, downcast eyes, as if worried and unhappy."
+      },
+      {
+        "emoji": "😕",
+        "name": "Confused Face",
+        "description": "A yellow face with open eyes and a skewed frown, as if scrunching its cheeks or chewing its lips in confusion."
+      },
+      {
+        "emoji": "🙁",
+        "name": "Slightly Frowning Face",
+        "description": "A yellow face with simple, open eyes and a slight frown."
+      },
+      {
+        "emoji": "☹️",
+        "name": "Frowning Face",
+        "description": "A yellow face with simple, open eyes and a frown."
+      },
+      {
+        "emoji": "😣",
+        "name": "Persevering Face",
+        "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+      },
+      {
+        "emoji": "😖",
+        "name": "Confounded Face",
+        "description": "A yellow face with furrowed eyebrows, a small, open frown, and eyes looking up and to the side."
+      },
+      {
+        "emoji": "😫",
+        "name": "Tired Face",
+        "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+      },
+      {
+        "emoji": "😩",
+        "name": "Weary Face",
+        "description": "A yellow face with closed eyes and a frown, as if tired and weary."
+      },
+      {
+        "emoji": "🥺",
+        "name": "Pleading Face",
+        "description": "A yellow face with closed eyes, a small, closed mouth, and a pleading expression. Often conveys a sense of begging or imploring."
+      },
+      {
+        "emoji": "😢",
+        "name": "Crying Face",
+        "description": "A yellow face with raised eyebrows and a slight frown, shedding a single, blue tear from one eye down its cheek. May convey a moderate degree of sadness or pain."
+      },
+      {
+        "emoji": "😭",
+        "name": "Loudly Crying Face",
+        "description": "A yellow face with an open mouth wailing and streams of heavy tears flowing from closed eyes. May convey inconsolable grief but also other intense feelings, such as uncontrollable laughter or overwhelming joy."
+      },
+      {
+        "emoji": "😤",
+        "name": "Face with Steam From Nose",
+        "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+      },
+      {
+        "emoji": "😠",
+        "name": "Angry Face",
+        "description": "A yellow face with a frowning mouth and eyes and eyebrows scrunched downward in anger."
+      },
+      {
+        "emoji": "😡",
+        "name": "Pouting Face",
+        "description": "A yellow face with scrunched, X-shaped eyes and a frown, as if aching with rage."
+      },
+      {
+        "emoji": "🤬",
+        "name": "Face with Symbols on Mouth",
+        "description": "A face with symbols on the mouth, showing air going out, as if the face is swearing."
+      },
+      {
+        "emoji": "🤯",
+        "name": "Exploding Head",
+        "description": "A yellow face with an open mouth, the top of its head exploding in the shape of a mushroom cloud."
+      },
+      {
+        "emoji": "😳",
+        "name": "Flushed Face",
+        "description": "A yellow face with wide, blank eyes, and a small, open frown. Its face is red and its mouth is open, with a raised eyebrow."
+      },
+      {
+        "emoji": "🥵",
+        "name": "Hot Face",
+        "description": "A red face with a scrunched, X-shaped eyes, furrowed eyebrows, and a frown, as if overheated from high temperatures."
+      },
+      {
+        "emoji": "🥶",
+        "name": "Cold Face",
+        "description": "A blue face with a scrunched, X-shaped eyes, furrowed eyebrows, and a frown, as if cold from low temperatures."
+      },
+      {
+        "emoji": "😶‍🌫️",
+        "name": "Face in Clouds",
+        "description": "A face with closed eyes and a cloud of smoke around it, as if in a fog."
+      },
+      {
+        "emoji": "😱",
+        "name": "Face Screaming in Fear",
+        "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+      },
+      {
+        "emoji": "😨",
+        "name": "Fearful Face",
+        "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+      },
+      {
+        "emoji": "😰",
+        "name": "Anxious Face with Sweat",
+        "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+      },
+      {
+        "emoji": "😥",
+        "name": "Sad but Relieved Face",
+        "description": "A yellow face with closed eyes, raised eyebrows, and a small, open smile, as if aching with sadness and pain."
+      },
+      {
+        "emoji": "😓",
+        "name": "Downcast Face with Sweat",
+        "description": "A yellow face with closed eyes, furrowed eyebrows, and a small, open smile, as if aching with sadness and pain."
+      },
+      {
+        "emoji": "🤗",
+        "name": "Hugging Face",
+        "description": "A yellow face with open hands, as if giving a hug."
+      },
+      {
+        "emoji": "🤔",
+        "name": "Thinking Face",
+        "description": "A yellow face with a hand resting on its chin and a pondering expression."
+      },
+      {
+        "emoji": "🫣",
+        "name": "Fog",
+        "description": "A symbol that is a cloud in a fog."
+      },
+      {
+        "emoji": "🤭",
+        "name": "Face with Hand Over Mouth",
+        "description": "A yellow face with wide, open eyes, a slight frown, and large, open hands covering its mouth."
+      },
+      {
+        "emoji": "🫢",
+        "name": "Lightning",
+        "description": "A symbol that is a lightning bolt."
+      },
+      {
+        "emoji": "🫡",
+        "name": "Tornado",
+        "description": "A symbol that is a tornado."
+      },
+      {
+        "emoji": "🤫",
+        "name": "Shushing Face",
+        "description": "A yellow face with wide, open eyes, a slight frown, and a finger pressed against its closed mouth."
+      },
+      {
+        "emoji": "🫠",
+        "name": "Comet",
+        "description": "A symbol that is a comet."
+      },
+      {
+        "emoji": "😶",
+        "name": "Face Without Mouth",
+        "description": "A yellow face with a flat, closed mouth and blank, white eyes."
+      },
+      {
+        "emoji": "🫥",
+        "name": "Chain",
+        "description": "A symbol that is a chain."
+      },
+      {
+        "emoji": "😐",
+        "name": "Neutral Face",
+        "description": "A yellow face with a flat, closed mouth and blank, white eyes."
+      },
+      {
+        "emoji": "🫤",
+        "name": "Factory",
+        "description": "A symbol that is a factory."
+      },
+      {
+        "emoji": "😑",
+        "name": "Expressionless Face",
+        "description": "A yellow face with flat, closed eyes, and a flat, closed mouth."
+      },
+      {
+        "emoji": "🫨",
+        "name": "Bacterial",
+        "description": "A symbol that is bacterial."
+      },
+      {
+        "emoji": "😬",
+        "name": "Grimacing Face",
+        "description": "A yellow face with a slight, greenish tint, and a neutral expression."
+      },
+      {
+        "emoji": "🙄",
+        "name": "Face with Rolling Eyes",
+        "description": "A yellow face with a small, closed mouth, eyes, and raised eyebrows, as if sighing."
+      },
+      {
+        "emoji": "😯",
+        "name": "Surprised Face",
+        "description": "A yellow face with wide, open eyes, raised eyebrows, and a slight, open mouth, as if surprised."
+      },
+      {
+        "emoji": "😦",
+        "name": "Frowning Face with Open Mouth",
+        "description": "A yellow face with open eyes and raised eyebrows, with a frown and open mouth."
+      },
+      {
+        "emoji": "😧",
+        "name": "Anguished Face",
+        "description": "A yellow face with open eyes and raised eyebrows, with a frown and open mouth."
+      },
+      {
+        "emoji": "😮",
+        "name": "Face with Open Mouth",
+        "description": "A yellow face with wide, open eyes, raised eyebrows, and a slight, open mouth, as if surprised."
+      },
+      {
+        "emoji": "😲",
+        "name": "Astounded Face",
+        "description": "A yellow face with wide, open eyes, raised eyebrows, and a wide, open mouth, as if amazed."
+      },
+      {
+        "emoji": "🥱",
+        "name": "Yawning Face",
+        "description": "A yellow face with tired, closed eyes, wide open mouth, and raised eyebrows."
+      },
+      {
+        "emoji": "😴",
+        "name": "Sleeping Face",
+        "description": "A yellow face with eyes closed, mouth open, and a blue snot bubble coming out of its nose. It's sleeping."
+      },
+      {
+        "emoji": "🤤",
+        "name": "Drooling Face",
+        "description": "A yellow face with a slobbering mouth and wide eyes, as if a child sees food."
+      },
+      {
+        "emoji": "😪",
+        "name": "Sleepy Face",
+        "description": "A yellow face with closed eyes, mouth open, and a blue snot bubble coming out of its nose. It's sleeping."
+      },
+      {
+        "emoji": "😵",
+        "name": "Dizzy Face",
+        "description": "A yellow face with X's for eyes and a squiggly mouth. It's dizzy."
+      },
+      {
+        "emoji": "🤐",
+        "name": "Zipper-Mouth Face",
+        "description": "A yellow face with a zipper where its mouth is, a close-mouthed smile, and big eyes."
+      },
+      {
+        "emoji": "🤢",
+        "name": "Nauseated Face",
+        "description": "A yellow face with a wry mouth and eyes on its head. It's only smiley face."
+      },
+      {
+        "emoji": "🤧",
+        "name": "Sneezing Face",
+        "description": "A yellow face with closed eyes, a wry mouth, and a raised nose. It's sneezy."
+      },
+      {
+        "emoji": "😷",
+        "name": "Face with Medical Mask",
+        "description": "A yellow face with a mask around its head and a bandage around its neck."
+      },
+      {
+        "emoji": "🤒",
+        "name": "Face with Thermometer",
+        "description": "A yellow face with a thermometer around its head and a mask around its neck."
+      },
+      {
+        "emoji": "🤕",
+        "name": "Face with Head-Bandage",
+        "description": "A yellow face with a bandage around its head and a mask around its neck."
+      },
+      {
+        "emoji": "🤑",
+        "name": "Money-Mouth Face",
+        "description": "A yellow face with a dollar sign and money bag eyes. It's all smiley face."
+      },
+      {
+        "emoji": "🤠",
+        "name": "Cowboy Hat Face",
+        "description": "A yellow face with a brown hat and a belt around its neck. It's all smiley face."
+      },
+      {
+        "emoji": "🥳",
+        "name": "Partying Face",
+        "description": "A yellow face with a party hat on top of its head. It's all smiley face."
+      },
+      {
+        "emoji": "😎",
+        "name": "Smiling Face with Sunglasses",
+        "description": "A yellow face with a dark smile on its face and a dark smile on its head. It's all smiley face."
+      },
+      {
+        "emoji": "🥲",
+        "name": "Smiling Face with Tears",
+        "description": "A yellow face with a dark smile and a dark smile on its head. It's all smiley face."
+      },
+      {
+        "emoji": "😖",
+        "name": "Confused Face",
+        "description": "A face with a wide-open mouth, squiggly eyes, and tears flowing down. It conveys a sense of confusion, frustration, or distress."
+      },
+      
+        {
+            "emoji": "😔",
+            "name": "Pensive Face",
+            "description": "A yellow face with slightly raised eyebrows, a small frown, and eyes looking to the side. Often conveys a mild sense of concern."
+        },
+        {
+            "emoji": "😟",
+            "name": "Worried Face",
+            "description": "A yellow face with raised eyebrows, a small frown, and large, worried eyes. May convey a variety of moderately sad or tense emotions."
+        },
+        {
+            "emoji": "😕",
+            "name": "Confused Face",
+            "description": "A yellow face with open eyes and a skewed frown, as if scrunching its cheeks or chewing its lips in confusion."
+        },
+        {
+            "emoji": "🙁",
+            "name": "Slightly Frowning Face",
+            "description": "A yellow face with simple, open eyes and a slight frown."
+        },
+        {
+            "emoji": "☹️",
+            "name": "Frowning Face",
+            "description": "A yellow face with simple, open eyes and a frown."
+        },
+        {
+            "emoji": "😣",
+            "name": "Persevering Face",
+            "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+        },
+        {
+            "emoji": "😫",
+            "name": "Tired Face",
+            "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+        },
+        {
+            "emoji": "😩",
+            "name": "Weary Face",
+            "description": "A yellow face with closed eyes and a frown, as if tired and weary."
+        },
+        {
+            "emoji": "🥺",
+            "name": "Pleading Face",
+            "description": "A yellow face with closed eyes, a small, closed mouth, and a pleading expression. Often conveys a sense of begging or imploring."
+        },
+        {
+            "emoji": "😢",
+            "name": "Crying Face",
+            "description": "A yellow face with raised eyebrows and a slight frown, shedding a single, blue tear from one eye down its cheek. May convey a moderate degree of sadness or pain."
+        },
+        {
+            "emoji": "😭",
+            "name": "Loudly Crying Face",
+            "description": "A yellow face with an open mouth wailing and streams of heavy tears flowing from closed eyes. May convey inconsolable grief but also other intense feelings, such as uncontrollable laughter or overwhelming joy."
+        },
+        {
+            "emoji": "😤",
+            "name": "Face with Steam From Nose",
+            "description": "A yellow face with closed eyes, furrowed eyebrows, and a broad, open frown, as if distraught to the point of giving up."
+        },
+        {
+            "emoji": "😠",
+            "name": "Angry Face",
+            "description": "A yellow face with a frowning mouth and eyes and eyebrows scrunched downward in anger."
+        },
+        {
+            "emoji": "😡",
+            "name": "Pouting Face",
+            "description": "A yellow face with scrunched, X-shaped eyes and a frown, as if aching with rage."
+        },
+        {
+            "emoji": "🤬",
+            "name": "Face with Symbols on Mouth",
+            "description": "A face with symbols on the mouth, showing air going out, as if the face is swearing."
+        },
+        {
+            "emoji": "🤯",
+            "name": "Exploding Head",
+            "description": "A yellow face with an open mouth, the top of its head exploding in the shape of a mushroom cloud."
+        },
+        {
+            "emoji": "😳",
+            "name": "Flushed Face",
+            "description": "A yellow face with wide, blank eyes, and a small, open frown. Its face is red and its mouth is open, with a raised eyebrow."
+        },
+        {
+            "emoji": "🥵",
+            "name": "Hot Face",
+            "description": "A red face with a scrunched, X-shaped eyes, furrowed eyebrows, and a frown, as if overheated from high temperatures."
+        },
+        {
+            "emoji": "🥶",
+            "name": "Cold Face",
+            "description": "A blue face with a scrunched, X-shaped eyes, furrowed eyebrows, and a frown, as if cold from low temperatures."
+        },
+        {
+            "emoji": "😶‍🌫️",
+            "name": "Face in Clouds",
+            "description": "A face with closed eyes and a cloud of smoke around it, as if in a fog."
+        },
+        {
+            "emoji": "😱",
+            "name": "Face Screaming in Fear",
+            "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+        },
+        {
+            "emoji": "😨",
+            "name": "Fearful Face",
+            "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+        },
+        {
+            "emoji": "😰",
+            "name": "Anxious Face with Sweat",
+            "description": "A yellow face with open eyes, raised eyebrows, and a mouth open, as if in fear or horror."
+        },
+        {
+            "emoji": "😥",
+            "name": "Sad but Relieved Face",
+            "description": "A yellow face with closed eyes, raised eyebrows, and a small, open smile, as if aching with sadness and pain."
+        },
+        {
+            "emoji": "😓",
+            "name": "Downcast Face with Sweat",
+            "description": "A yellow face with closed eyes, furrowed eyebrows, and a small, open smile, as if aching with sadness and pain."
+        },
+        {
+            "emoji": "🤗",
+            "name": "Hugging Face",
+            "description": "A yellow face with open hands, as if giving a hug."
+        },
+        {
+            "emoji": "🤔",
+            "name": "Thinking Face",
+            "description": "A yellow face with a hand resting on its chin and a pondering expression."
+        },
+        {
+            "emoji": "🫣",
+            "name": "Fog",
+            "description": "A symbol that is a cloud in a fog."
+        },
+        {
+            "emoji": "🤭",
+            "name": "Face with Hand Over Mouth",
+            "description": "A yellow face with wide, open eyes, a slight frown, and large, open hands covering its mouth."
+        },
+        {
+            "emoji": "🫢",
+            "name": "Lightning",
+            "description": "A symbol that is a lightning bolt."
+        },
+        {
+            "emoji": "🫡",
+            "name": "Tornado",
+            "description": "A symbol that is a tornado."
+        },
+        {
+            "emoji": "🤫",
+            "name": "Shushing Face",
+            "description": "A yellow face with wide, open eyes, a slight frown, and a finger pressed against its closed mouth."
+        },
+        {
+            "emoji": "🫠",
+            "name": "Comet",
+            "description": "A symbol that is a comet."
+        },
+        {
+            "emoji": "😶",
+            "name": "Face Without Mouth",
+            "description": "A yellow face with a flat, closed mouth and blank, white eyes."
+        },
+        {
+            "emoji": "🫥",
+            "name": "Chain",
+            "description": "A symbol that is a chain."
+        },
+        {
+            "emoji": "😐",
+            "name": "Neutral Face",
+            "description": "A yellow face with a flat, closed mouth and blank, white eyes."
+        },
+        {
+            "emoji": "🫤",
+            "name": "Factory",
+            "description": "A symbol that is a factory."
+        },
+        {
+            "emoji": "😑",
+            "name": "Expressionless Face",
+            "description": "A yellow face with flat, closed eyes, and a flat, closed mouth."
+        },
+        {
+            "emoji": "🫨",
+            "name": "Bacterial",
+            "description": "A symbol that is bacterial."
+        },
+        {
+            "emoji": "😬",
+            "name": "Grimacing Face",
+            "description": "A yellow face with a slight, greenish tint, and a neutral expression."
+        },
+        {
+            "emoji": "🙄",
+            "name": "Face with Rolling Eyes",
+            "description": "A yellow face with a small, closed mouth, eyes, and raised eyebrows, as if sighing."
+        },
+        {
+            "emoji": "😯",
+            "name": "Surprised Face",
+            "description": "A yellow face with wide, open eyes, raised eyebrows, and a slight, open mouth, as if surprised."
+        },
+        {
+            "emoji": "😦",
+            "name": "Frowning Face with Open Mouth",
+            "description": "A yellow face with a frowning mouth, a white light on top, squiggly eyes, open legs, heavy tears flowing closed in."
+        },
+        {
+            "emoji": "😧",
+            "name": "Anguished Face",
+            "description": "A yellow face with a frowning mouth, a white light on top, squiggly eyes, open legs, heavy tears flowing closed in."
+        },
+        {
+            "emoji": "😮",
+            "name": "Face with Open Mouth",
+            "description": "A yellow face with wide, open eyes, raised eyebrows, and a slight, open mouth, as if surprised."
+        },
+        {
+            "emoji": "😲",
+            "name": "Astounded Face",
+            "description": "A yellow face with wide, open eyes, raised eyebrows, and a wide, open mouth, as if amazed."
+        },
+        {
+            "emoji": "🥱",
+            "name": "Yawning Face",
+            "description": "A yellow face with tired, closed eyes, wide open mouth, and raised eyebrows."
+        },
+        {
+            "emoji": "😴",
+            "name": "Sleeping Face",
+            "description": "A yellow face with eyes closed, mouth open, and a blue snot bubble coming out of its nose. It's sleeping."
+        },
+        {
+            "emoji": "🤤",
+            "name": "Drooling Face",
+            "description": "A yellow face with a slobbering mouth and wide eyes, as if a child sees food."
+        },
+        {
+            "emoji": "😪",
+            "name": "Sleepy Face",
+            "description": "A yellow face with closed eyes, mouth open, and a blue snot bubble coming out of its nose. It's sleeping."
+        },
+        {
+            "emoji": "😵",
+            "name": "Dizzy Face",
+            "description": "A yellow face with X's for eyes and a squiggly mouth. It's dizzy."
+        },
+        {
+            "emoji": "🤐",
+            "name": "Zipper-Mouth Face",
+            "description": "A yellow face with a zipper where its mouth is, a close-mouthed smile, and big eyes."
+        },
+        {
+            "emoji": "🤢",
+            "name": "Nauseated Face",
+            "description": "A yellow face with a wry mouth and eyes on its head. It's only smiley face."
+        },
+        {
+            "emoji": "🤧",
+            "name": "Sneezing Face",
+            "description": "A yellow face with closed eyes, a wry mouth, and a raised nose. It's sneezy."
+        },
+        {
+            "emoji": "😷",
+            "name": "Face with Medical Mask",
+            "description": "A yellow face with a mask around its head and a bandage around its neck."
+        },
+        {
+            "emoji": "🤒",
+            "name": "Face with Thermometer",
+            "description": "A yellow face with a thermometer around its head and a mask around its neck."
+        },
+        {
+            "emoji": "🤕",
+            "name": "Face with Head-Bandage",
+            "description": "A yellow face with a bandage around its head and a mask around its neck."
+        },
+        {
+            "emoji": "🤑",
+            "name": "Money-Mouth Face",
+            "description": "A yellow face with a dollar sign and money bag eyes. It's all smiley face."
+        },
+        {
+            "emoji": "🤠",
+            "name": "Cowboy Hat Face",
+            "description": "A yellow face with a brown hat and a belt around its neck. It's all smiley face."
+        },
+        {
+            "emoji": "🥳",
+            "name": "Partying Face",
+            "description": "A yellow face with a party hat on top of its head. It's all smiley face."
+        },
+        {
+            "emoji": "😎",
+            "name": "Smiling Face with Sunglasses",
+            "description": "A yellow face with a dark smile on its face and a dark smile on its head. It's all smiley face."
+        },
+        {
+            "emoji": "🥲",
+            "name": "Smiling Face with Tears",
+            "description": "A yellow face with a dark smile and a dark smile on its head. It's all smiley face."
+        },
+        {
+            "emoji": "😖",
+            "name": "Confounded Face",
+            "description": "A yellow face with an open mouth, raised eyebrows, and a bead of sweat, as if overheated from stress, embarrassment, or hard work."
+        }
+    
+
+]
+      
+  
